@@ -16,7 +16,17 @@
 - **Server** : Apache Tomcat 9.0
 - **ORM** : Mybatis
 
-## 📌 맡은 기능
+## 📒 유스케이스 다이어그램
+<div align="center" style="background-color: #f0f0f0;">
+  <img src="https://github.com/manseo00/opticyellow/assets/84060692/45e3d4fd-62e9-4e85-accf-0dcdbe9316ec" width="70%" height="70%" background/>
+</div><br>
+
+## ⌨️ 담당 기능 클래스 다이어그램
+<div align="center">
+  <img src="https://github.com/manseo00/opticyellow/assets/84060692/7c7bec81-b512-49aa-86e8-5c338198b5f0" width="70%" height="70%"/>
+</div><br>
+
+## 📌 담당 기능
 ### 마이페이지
 <div align="center">
   <img src="https://github.com/manseo00/opticyellow/assets/84060692/c71e662c-ee49-4310-8cf5-e576faec1279" width="50%" height="50%"/>
